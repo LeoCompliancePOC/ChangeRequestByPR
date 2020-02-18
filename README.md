@@ -1,2 +1,4 @@
 # ChangeRequestByPR
-POC For Change Request by PR
+
+This is a repository for a POC for Change Request by PR.
+
